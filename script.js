@@ -1,5 +1,5 @@
 Swal.fire(
-    'Warning',
-    'Gunakan css murni, no copas-copas club !!',
+    'Yooww',
+    'Gunakan css murni, no copas-copas club !! ~akmal',
     'Error'
 )
